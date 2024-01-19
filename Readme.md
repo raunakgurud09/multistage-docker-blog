@@ -1,5 +1,8 @@
 # Dockerize Typescript app
 
+![thumbnail](/public/images/thumbnail-1.png)
+
+
 This blog post explores the process of dockerization a TypeScript Express app while taking into consideration best practices. It showcases the usage of multistage Docker files to optimize the Dockerization process.
 
 This is not on basic of docker it will deep dive into optimize way to write Dockerfile to improve performance security speed
